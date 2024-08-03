@@ -76,9 +76,9 @@
     width: 524px;
     margin: 60px auto;
 }
-/* #card-box .info{
-
-} */
+#card-box .info{
+  margin-top: 100px;
+}
 
 #card-box .title{
     color: rgb(16, 16, 16);
@@ -88,6 +88,7 @@
     line-height: 25px;
     letter-spacing: 0%;
     text-align: center;
+    margin-bottom: 20px;
 } 
 
 #card-box .subtitle{
@@ -99,7 +100,7 @@
     letter-spacing: 0%;
     text-align: center;
     opacity: 0.6;
-
+    margin-bottom: 10px;
 }
 
 .card-container{
